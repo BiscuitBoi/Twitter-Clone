@@ -2,11 +2,11 @@ import React from 'react';
 import './index.css';
 
 
-function Explore(){
+function Lists(){
   return(
   <div className="mid">
-  <h1>Explore</h1>
+  <h1>Lists</h1>
   </div>
 );
 }
-  export default Explore;
+  export default Lists;
